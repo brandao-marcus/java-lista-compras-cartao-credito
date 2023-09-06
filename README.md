@@ -5,7 +5,9 @@ Java - Lista de compras com cartão de crédito
  Objetivos do projeto: 
 
 • Criar uma classe que represente uma compra (descrição e valor);
+
 • Criar uma classe que represente um cartão de crédito (limite, saldo e lista de compras), sendo que ela deve possuir um método para registrar uma compra;
+
 • Criar uma classe com o método main, seguindo os seguintes objetivos:
    i.Solicitar que o usuário informe o limite do cartão de crédito;
    ii.Criar um objeto cartão de crédito com o limite informado;
